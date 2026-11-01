@@ -29,8 +29,8 @@ Each project has a business question, an India-relevant dataset, tested code, CI
 | 🛍️ | **[Customer Segmentation & CLV](https://github.com/HuseinGhadiali/ecommerce-customer-segmentation)** | D2C brand: RFM playbook, cohort retention, **COD/RTO economics**, LTV:CAC and a predictive CLV model | pandas · scikit-learn |
 | 📈 | **[Demand Forecasting & Inventory](https://github.com/HuseinGhadiali/fmcg-demand-forecasting)** | 120 FMCG series: ETS/Theta/MSTL/Croston vs a **global LightGBM**, rolling backtests, Diwali effects, **23% less stock at the same fill rate** | statsforecast · mlforecast |
 | 💳 | **[UPI Cashback A/B Test](https://github.com/HuseinGhadiali/upi-cashback-ab-test)** | 200K-user experiment: power, **SRM root-causing**, CUPED, Holm-corrected segments, novelty and an ROI rollout decision | SciPy · SQL · experimentation |
-| 💬 | **[Customer Voice NLP](https://github.com/HuseinGhadiali/customer-voice-nlp)** | 🤗 Transformers on real Flipkart reviews and banking support tickets: sentiment, zero-shot aspects, topic discovery, **fine-tuned DistilBERT** routing | Hugging Face · PyTorch |
-| 🏦 | **[Credit Risk ML Toolkit](https://github.com/HuseinGhadiali/credit-risk-ml-toolkit)** | **LazyPredict → Optuna → calibration → SHAP → fairlearn**, plus Gini/KS, a CIBIL-style 300–900 score and PSI | LightGBM · Optuna · SHAP |
+| 💬 | **[Customer Voice NLP](https://github.com/HuseinGhadiali/customer-voice-nlp)** | 🤗 Transformers on **real** Flipkart reviews and banking support tickets: zero-training sentiment, zero-shot complaint aspects, topic discovery, and ticket routing (**82% auto-routed at 98.5% accuracy**) | Hugging Face · PyTorch |
+| 🏦 | **[Credit Risk ML Toolkit](https://github.com/HuseinGhadiali/credit-risk-ml-toolkit)** | 30K real card holders: **LazyPredict → Optuna → calibration → SHAP reason codes → fairlearn audit**, plus Gini/KS, a profit-based cut-off, a CIBIL-style 300–900 score and PSI stress test | LightGBM · Optuna · SHAP |
 
 <details>
 <summary><b>Earlier work</b></summary>
